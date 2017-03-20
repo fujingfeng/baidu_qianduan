@@ -1,0 +1,39 @@
+/*利用float和绝对定位进行自适应布局*/
+.top{
+	border:1px solid #999;
+	overflow:hidden;  /* 清除浮动对父元素的影响；也可以写为overflow:auto;*/
+	height:700px;
+	margin:20px 20px;
+	padding:20px 20px;
+	background-color:#eee;
+	position:relative;
+}
+
+/*左侧*/
+.left{
+	border:1px solid #999;
+	float:left;
+	width:200px;
+	
+}
+/*团队Logo*/
+.team{
+	
+}
+
+/*中间*/
+.middle{
+	clear:both;
+	border:1px solid #666666;
+	float:left;
+	margin-left:240px;
+	margin-right:160px;
+	position:absolute;
+
+}
+/*右侧*/
+.right{
+	border:1px solid #666666;
+	float:right;
+	width:120px;
+}

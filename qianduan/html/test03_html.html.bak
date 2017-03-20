@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <link href="../css/test_03.css" rel="stylesheet" type="text/css" />
+ </head>
+ <body>
+  <div class="top">
+	<div class="left">
+		<span>团队名称</span>
+		<div class="team">
+				<span>团队Logo80*80</span>
+		</div>
+	</div>
+	<div class="middle">
+		<div class="middle_content">
+		中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中间中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中间中间中中间中间中间中间中间中间中间中间中间中间中2017/3/20间中间中中间中间中间中中间
+			</div>
+		</div>
+	<div class="right">
+		<div class="">
+			<div class="private-logo">
+				<span>个人logo 80*80</span>	
+			</div>
+			<div class="private-logo">
+				<span>个人logo 80*80</span>	
+			</div>
+			<div class="private-logo">
+				<span>个人logo 80*80</span>	
+			</div>
+			<div class="private-logo">
+				<span>个人logo 80*80</span>	
+			</div>
+			<div class="private-logo">
+				<span>个人logo 80*80</span>	
+			</div>
+			<div class="private-logo">
+				<span>个人logo 80*80</span>	
+			</div>
+		</div>
+	</div>
+  </div>
+ </body>
+</html>
